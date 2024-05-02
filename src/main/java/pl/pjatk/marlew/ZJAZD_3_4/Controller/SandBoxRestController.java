@@ -1,4 +1,4 @@
-package pl.pjatk.marlew.ZJAZD_3_4;
+package pl.pjatk.marlew.ZJAZD_3_4.Controller;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
